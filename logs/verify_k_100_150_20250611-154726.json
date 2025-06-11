@@ -1,0 +1,352 @@
+[
+  {
+    "k": 100,
+    "status": "VERIFIED",
+    "max_m_tested": 922,
+    "best_m": 2,
+    "min_error": 1267650600228229401496703205375
+  },
+  {
+    "k": 101,
+    "status": "VERIFIED",
+    "max_m_tested": 933,
+    "best_m": 2,
+    "min_error": 2535301200456458802993406410751
+  },
+  {
+    "k": 102,
+    "status": "VERIFIED",
+    "max_m_tested": 944,
+    "best_m": 2,
+    "min_error": 5070602400912917605986812821503
+  },
+  {
+    "k": 104,
+    "status": "VERIFIED",
+    "max_m_tested": 967,
+    "best_m": 2,
+    "min_error": 20282409603651670423947251286015
+  },
+  {
+    "k": 103,
+    "status": "VERIFIED",
+    "max_m_tested": 955,
+    "best_m": 2,
+    "min_error": 10141204801825835211973625643007
+  },
+  {
+    "k": 105,
+    "status": "VERIFIED",
+    "max_m_tested": 978,
+    "best_m": 2,
+    "min_error": 40564819207303340847894502572031
+  },
+  {
+    "k": 108,
+    "status": "VERIFIED",
+    "max_m_tested": 1012,
+    "best_m": 2,
+    "min_error": 324518553658426726783156020576255
+  },
+  {
+    "k": 106,
+    "status": "VERIFIED",
+    "max_m_tested": 989,
+    "best_m": 2,
+    "min_error": 81129638414606681695789005144063
+  },
+  {
+    "k": 107,
+    "status": "VERIFIED",
+    "max_m_tested": 1000,
+    "best_m": 2,
+    "min_error": 162259276829213363391578010288127
+  },
+  {
+    "k": 110,
+    "status": "VERIFIED",
+    "max_m_tested": 1035,
+    "best_m": 2,
+    "min_error": 1298074214633706907132624082305023
+  },
+  {
+    "k": 112,
+    "status": "VERIFIED",
+    "max_m_tested": 1057,
+    "best_m": 2,
+    "min_error": 5192296858534827628530496329220095
+  },
+  {
+    "k": 109,
+    "status": "VERIFIED",
+    "max_m_tested": 1023,
+    "best_m": 2,
+    "min_error": 649037107316853453566312041152511
+  },
+  {
+    "k": 113,
+    "status": "VERIFIED",
+    "max_m_tested": 1069,
+    "best_m": 2,
+    "min_error": 10384593717069655257060992658440191
+  },
+  {
+    "k": 114,
+    "status": "VERIFIED",
+    "max_m_tested": 1080,
+    "best_m": 2,
+    "min_error": 20769187434139310514121985316880383
+  },
+  {
+    "k": 111,
+    "status": "VERIFIED",
+    "max_m_tested": 1046,
+    "best_m": 2,
+    "min_error": 2596148429267413814265248164610047
+  },
+  {
+    "k": 116,
+    "status": "VERIFIED",
+    "max_m_tested": 1103,
+    "best_m": 2,
+    "min_error": 83076749736557242056487941267521535
+  },
+  {
+    "k": 115,
+    "status": "VERIFIED",
+    "max_m_tested": 1092,
+    "best_m": 2,
+    "min_error": 41538374868278621028243970633760767
+  },
+  {
+    "k": 117,
+    "status": "VERIFIED",
+    "max_m_tested": 1115,
+    "best_m": 2,
+    "min_error": 166153499473114484112975882535043071
+  },
+  {
+    "k": 118,
+    "status": "VERIFIED",
+    "max_m_tested": 1126,
+    "best_m": 2,
+    "min_error": 332306998946228968225951765070086143
+  },
+  {
+    "k": 119,
+    "status": "VERIFIED",
+    "max_m_tested": 1138,
+    "best_m": 2,
+    "min_error": 664613997892457936451903530140172287
+  },
+  {
+    "k": 120,
+    "status": "VERIFIED",
+    "max_m_tested": 1149,
+    "best_m": 2,
+    "min_error": 1329227995784915872903807060280344575
+  },
+  {
+    "k": 121,
+    "status": "VERIFIED",
+    "max_m_tested": 1161,
+    "best_m": 2,
+    "min_error": 2658455991569831745807614120560689151
+  },
+  {
+    "k": 122,
+    "status": "VERIFIED",
+    "max_m_tested": 1173,
+    "best_m": 2,
+    "min_error": 5316911983139663491615228241121378303
+  },
+  {
+    "k": 124,
+    "status": "VERIFIED",
+    "max_m_tested": 1196,
+    "best_m": 2,
+    "min_error": 21267647932558653966460912964485513215
+  },
+  {
+    "k": 123,
+    "status": "VERIFIED",
+    "max_m_tested": 1184,
+    "best_m": 2,
+    "min_error": 10633823966279326983230456482242756607
+  },
+  {
+    "k": 125,
+    "status": "VERIFIED",
+    "max_m_tested": 1208,
+    "best_m": 2,
+    "min_error": 42535295865117307932921825928971026431
+  },
+  {
+    "k": 128,
+    "status": "VERIFIED",
+    "max_m_tested": 1243,
+    "best_m": 2,
+    "min_error": 340282366920938463463374607431768211455
+  },
+  {
+    "k": 126,
+    "status": "VERIFIED",
+    "max_m_tested": 1219,
+    "best_m": 2,
+    "min_error": 85070591730234615865843651857942052863
+  },
+  {
+    "k": 127,
+    "status": "VERIFIED",
+    "max_m_tested": 1231,
+    "best_m": 2,
+    "min_error": 170141183460469231731687303715884105727
+  },
+  {
+    "k": 130,
+    "status": "VERIFIED",
+    "max_m_tested": 1266,
+    "best_m": 2,
+    "min_error": 1361129467683753853853498429727072845823
+  },
+  {
+    "k": 129,
+    "status": "VERIFIED",
+    "max_m_tested": 1254,
+    "best_m": 2,
+    "min_error": 680564733841876926926749214863536422911
+  },
+  {
+    "k": 132,
+    "status": "VERIFIED",
+    "max_m_tested": 1290,
+    "best_m": 2,
+    "min_error": 5444517870735015415413993718908291383295
+  },
+  {
+    "k": 131,
+    "status": "VERIFIED",
+    "max_m_tested": 1278,
+    "best_m": 2,
+    "min_error": 2722258935367507707706996859454145691647
+  },
+  {
+    "k": 133,
+    "status": "VERIFIED",
+    "max_m_tested": 1301,
+    "best_m": 2,
+    "min_error": 10889035741470030830827987437816582766591
+  },
+  {
+    "k": 134,
+    "status": "VERIFIED",
+    "max_m_tested": 1313,
+    "best_m": 2,
+    "min_error": 21778071482940061661655974875633165533183
+  },
+  {
+    "k": 136,
+    "status": "VERIFIED",
+    "max_m_tested": 1337,
+    "best_m": 2,
+    "min_error": 87112285931760246646623899502532662132735
+  },
+  {
+    "k": 137,
+    "status": "VERIFIED",
+    "max_m_tested": 1349,
+    "best_m": 2,
+    "min_error": 174224571863520493293247799005065324265471
+  },
+  {
+    "k": 135,
+    "status": "VERIFIED",
+    "max_m_tested": 1325,
+    "best_m": 2,
+    "min_error": 43556142965880123323311949751266331066367
+  },
+  {
+    "k": 138,
+    "status": "VERIFIED",
+    "max_m_tested": 1360,
+    "best_m": 2,
+    "min_error": 348449143727040986586495598010130648530943
+  },
+  {
+    "k": 139,
+    "status": "VERIFIED",
+    "max_m_tested": 1372,
+    "best_m": 2,
+    "min_error": 696898287454081973172991196020261297061887
+  },
+  {
+    "k": 140,
+    "status": "VERIFIED",
+    "max_m_tested": 1384,
+    "best_m": 2,
+    "min_error": 1393796574908163946345982392040522594123775
+  },
+  {
+    "k": 141,
+    "status": "VERIFIED",
+    "max_m_tested": 1396,
+    "best_m": 2,
+    "min_error": 2787593149816327892691964784081045188247551
+  },
+  {
+    "k": 142,
+    "status": "VERIFIED",
+    "max_m_tested": 1408,
+    "best_m": 2,
+    "min_error": 5575186299632655785383929568162090376495103
+  },
+  {
+    "k": 144,
+    "status": "VERIFIED",
+    "max_m_tested": 1432,
+    "best_m": 2,
+    "min_error": 22300745198530623141535718272648361505980415
+  },
+  {
+    "k": 143,
+    "status": "VERIFIED",
+    "max_m_tested": 1420,
+    "best_m": 2,
+    "min_error": 11150372599265311570767859136324180752990207
+  },
+  {
+    "k": 145,
+    "status": "VERIFIED",
+    "max_m_tested": 1444,
+    "best_m": 2,
+    "min_error": 44601490397061246283071436545296723011960831
+  },
+  {
+    "k": 146,
+    "status": "VERIFIED",
+    "max_m_tested": 1456,
+    "best_m": 2,
+    "min_error": 89202980794122492566142873090593446023921663
+  },
+  {
+    "k": 147,
+    "status": "VERIFIED",
+    "max_m_tested": 1468,
+    "best_m": 2,
+    "min_error": 178405961588244985132285746181186892047843327
+  },
+  {
+    "k": 148,
+    "status": "VERIFIED",
+    "max_m_tested": 1480,
+    "best_m": 2,
+    "min_error": 356811923176489970264571492362373784095686655
+  },
+  {
+    "k": 149,
+    "status": "VERIFIED",
+    "max_m_tested": 1492,
+    "best_m": 2,
+    "min_error": 713623846352979940529142984724747568191373311
+  }
+]
