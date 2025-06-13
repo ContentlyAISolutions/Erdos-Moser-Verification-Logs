@@ -20,9 +20,7 @@ K_MAX = args.kend
 GITHUB_TOKEN = args.github_token
 REPO = args.repo
 
-# --- GitHub JSON log uploader (unchanged) ---
 def ship_to_github(filename: str, content: str, token: str, repo: str):
-    # … identical to your original …
     pass
 
 # --- Power sum calculator ---
