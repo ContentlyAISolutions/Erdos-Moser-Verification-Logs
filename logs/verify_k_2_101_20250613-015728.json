@@ -1,0 +1,695 @@
+[
+  {
+    "k": 2,
+    "status": "VERIFIED",
+    "max_m_tested": 3,
+    "best_m": 2,
+    "min_error": 3
+  },
+  {
+    "k": 3,
+    "status": "VERIFIED",
+    "max_m_tested": 7,
+    "best_m": 2,
+    "min_error": 7
+  },
+  {
+    "k": 4,
+    "status": "VERIFIED",
+    "max_m_tested": 12,
+    "best_m": 2,
+    "min_error": 15
+  },
+  {
+    "k": 5,
+    "status": "VERIFIED",
+    "max_m_tested": 17,
+    "best_m": 2,
+    "min_error": 31
+  },
+  {
+    "k": 6,
+    "status": "VERIFIED",
+    "max_m_tested": 22,
+    "best_m": 2,
+    "min_error": 63
+  },
+  {
+    "k": 7,
+    "status": "VERIFIED",
+    "max_m_tested": 28,
+    "best_m": 2,
+    "min_error": 127
+  },
+  {
+    "k": 8,
+    "status": "VERIFIED",
+    "max_m_tested": 34,
+    "best_m": 2,
+    "min_error": 255
+  },
+  {
+    "k": 10,
+    "status": "VERIFIED",
+    "max_m_tested": 47,
+    "best_m": 2,
+    "min_error": 1023
+  },
+  {
+    "k": 9,
+    "status": "VERIFIED",
+    "max_m_tested": 40,
+    "best_m": 2,
+    "min_error": 511
+  },
+  {
+    "k": 11,
+    "status": "VERIFIED",
+    "max_m_tested": 53,
+    "best_m": 2,
+    "min_error": 2047
+  },
+  {
+    "k": 12,
+    "status": "VERIFIED",
+    "max_m_tested": 60,
+    "best_m": 2,
+    "min_error": 4095
+  },
+  {
+    "k": 14,
+    "status": "VERIFIED",
+    "max_m_tested": 74,
+    "best_m": 2,
+    "min_error": 16383
+  },
+  {
+    "k": 13,
+    "status": "VERIFIED",
+    "max_m_tested": 67,
+    "best_m": 2,
+    "min_error": 8191
+  },
+  {
+    "k": 15,
+    "status": "VERIFIED",
+    "max_m_tested": 82,
+    "best_m": 2,
+    "min_error": 32767
+  },
+  {
+    "k": 16,
+    "status": "VERIFIED",
+    "max_m_tested": 89,
+    "best_m": 2,
+    "min_error": 65535
+  },
+  {
+    "k": 17,
+    "status": "VERIFIED",
+    "max_m_tested": 97,
+    "best_m": 2,
+    "min_error": 131071
+  },
+  {
+    "k": 18,
+    "status": "VERIFIED",
+    "max_m_tested": 105,
+    "best_m": 2,
+    "min_error": 262143
+  },
+  {
+    "k": 19,
+    "status": "VERIFIED",
+    "max_m_tested": 112,
+    "best_m": 2,
+    "min_error": 524287
+  },
+  {
+    "k": 20,
+    "status": "VERIFIED",
+    "max_m_tested": 120,
+    "best_m": 2,
+    "min_error": 1048575
+  },
+  {
+    "k": 26,
+    "status": "VERIFIED",
+    "max_m_tested": 170,
+    "best_m": 2,
+    "min_error": 67108863
+  },
+  {
+    "k": 22,
+    "status": "VERIFIED",
+    "max_m_tested": 137,
+    "best_m": 2,
+    "min_error": 4194303
+  },
+  {
+    "k": 23,
+    "status": "VERIFIED",
+    "max_m_tested": 145,
+    "best_m": 2,
+    "min_error": 8388607
+  },
+  {
+    "k": 28,
+    "status": "VERIFIED",
+    "max_m_tested": 187,
+    "best_m": 2,
+    "min_error": 268435455
+  },
+  {
+    "k": 25,
+    "status": "VERIFIED",
+    "max_m_tested": 161,
+    "best_m": 2,
+    "min_error": 33554431
+  },
+  {
+    "k": 21,
+    "status": "VERIFIED",
+    "max_m_tested": 128,
+    "best_m": 2,
+    "min_error": 2097151
+  },
+  {
+    "k": 27,
+    "status": "VERIFIED",
+    "max_m_tested": 178,
+    "best_m": 2,
+    "min_error": 134217727
+  },
+  {
+    "k": 24,
+    "status": "VERIFIED",
+    "max_m_tested": 153,
+    "best_m": 2,
+    "min_error": 16777215
+  },
+  {
+    "k": 29,
+    "status": "VERIFIED",
+    "max_m_tested": 196,
+    "best_m": 2,
+    "min_error": 536870911
+  },
+  {
+    "k": 30,
+    "status": "VERIFIED",
+    "max_m_tested": 205,
+    "best_m": 2,
+    "min_error": 1073741823
+  },
+  {
+    "k": 33,
+    "status": "VERIFIED",
+    "max_m_tested": 231,
+    "best_m": 2,
+    "min_error": 8589934591
+  },
+  {
+    "k": 31,
+    "status": "VERIFIED",
+    "max_m_tested": 213,
+    "best_m": 2,
+    "min_error": 2147483647
+  },
+  {
+    "k": 32,
+    "status": "VERIFIED",
+    "max_m_tested": 222,
+    "best_m": 2,
+    "min_error": 4294967295
+  },
+  {
+    "k": 34,
+    "status": "VERIFIED",
+    "max_m_tested": 240,
+    "best_m": 2,
+    "min_error": 17179869183
+  },
+  {
+    "k": 39,
+    "status": "VERIFIED",
+    "max_m_tested": 286,
+    "best_m": 2,
+    "min_error": 549755813887
+  },
+  {
+    "k": 35,
+    "status": "VERIFIED",
+    "max_m_tested": 249,
+    "best_m": 2,
+    "min_error": 34359738367
+  },
+  {
+    "k": 38,
+    "status": "VERIFIED",
+    "max_m_tested": 277,
+    "best_m": 2,
+    "min_error": 274877906943
+  },
+  {
+    "k": 37,
+    "status": "VERIFIED",
+    "max_m_tested": 268,
+    "best_m": 2,
+    "min_error": 137438953471
+  },
+  {
+    "k": 41,
+    "status": "VERIFIED",
+    "max_m_tested": 305,
+    "best_m": 2,
+    "min_error": 2199023255551
+  },
+  {
+    "k": 36,
+    "status": "VERIFIED",
+    "max_m_tested": 259,
+    "best_m": 2,
+    "min_error": 68719476735
+  },
+  {
+    "k": 40,
+    "status": "VERIFIED",
+    "max_m_tested": 296,
+    "best_m": 2,
+    "min_error": 1099511627775
+  },
+  {
+    "k": 42,
+    "status": "VERIFIED",
+    "max_m_tested": 314,
+    "best_m": 2,
+    "min_error": 4398046511103
+  },
+  {
+    "k": 44,
+    "status": "VERIFIED",
+    "max_m_tested": 334,
+    "best_m": 2,
+    "min_error": 17592186044415
+  },
+  {
+    "k": 43,
+    "status": "VERIFIED",
+    "max_m_tested": 324,
+    "best_m": 2,
+    "min_error": 8796093022207
+  },
+  {
+    "k": 45,
+    "status": "VERIFIED",
+    "max_m_tested": 343,
+    "best_m": 2,
+    "min_error": 35184372088831
+  },
+  {
+    "k": 46,
+    "status": "VERIFIED",
+    "max_m_tested": 353,
+    "best_m": 2,
+    "min_error": 70368744177663
+  },
+  {
+    "k": 47,
+    "status": "VERIFIED",
+    "max_m_tested": 362,
+    "best_m": 2,
+    "min_error": 140737488355327
+  },
+  {
+    "k": 48,
+    "status": "VERIFIED",
+    "max_m_tested": 372,
+    "best_m": 2,
+    "min_error": 281474976710655
+  },
+  {
+    "k": 49,
+    "status": "VERIFIED",
+    "max_m_tested": 382,
+    "best_m": 2,
+    "min_error": 562949953421311
+  },
+  {
+    "k": 50,
+    "status": "VERIFIED",
+    "max_m_tested": 392,
+    "best_m": 2,
+    "min_error": 1125899906842623
+  },
+  {
+    "k": 51,
+    "status": "VERIFIED",
+    "max_m_tested": 402,
+    "best_m": 2,
+    "min_error": 2251799813685247
+  },
+  {
+    "k": 52,
+    "status": "VERIFIED",
+    "max_m_tested": 411,
+    "best_m": 2,
+    "min_error": 4503599627370495
+  },
+  {
+    "k": 53,
+    "status": "VERIFIED",
+    "max_m_tested": 421,
+    "best_m": 2,
+    "min_error": 9007199254740991
+  },
+  {
+    "k": 54,
+    "status": "VERIFIED",
+    "max_m_tested": 431,
+    "best_m": 2,
+    "min_error": 18014398509481983
+  },
+  {
+    "k": 56,
+    "status": "VERIFIED",
+    "max_m_tested": 451,
+    "best_m": 2,
+    "min_error": 72057594037927935
+  },
+  {
+    "k": 57,
+    "status": "VERIFIED",
+    "max_m_tested": 461,
+    "best_m": 2,
+    "min_error": 144115188075855871
+  },
+  {
+    "k": 55,
+    "status": "VERIFIED",
+    "max_m_tested": 441,
+    "best_m": 2,
+    "min_error": 36028797018963967
+  },
+  {
+    "k": 58,
+    "status": "VERIFIED",
+    "max_m_tested": 472,
+    "best_m": 2,
+    "min_error": 288230376151711743
+  },
+  {
+    "k": 60,
+    "status": "VERIFIED",
+    "max_m_tested": 492,
+    "best_m": 2,
+    "min_error": 1152921504606846975
+  },
+  {
+    "k": 59,
+    "status": "VERIFIED",
+    "max_m_tested": 482,
+    "best_m": 2,
+    "min_error": 576460752303423487
+  },
+  {
+    "k": 61,
+    "status": "VERIFIED",
+    "max_m_tested": 502,
+    "best_m": 2,
+    "min_error": 2305843009213693951
+  },
+  {
+    "k": 62,
+    "status": "VERIFIED",
+    "max_m_tested": 512,
+    "best_m": 2,
+    "min_error": 4611686018427387903
+  },
+  {
+    "k": 63,
+    "status": "VERIFIED",
+    "max_m_tested": 523,
+    "best_m": 2,
+    "min_error": 9223372036854775807
+  },
+  {
+    "k": 64,
+    "status": "VERIFIED",
+    "max_m_tested": 533,
+    "best_m": 2,
+    "min_error": 18446744073709551615
+  },
+  {
+    "k": 66,
+    "status": "VERIFIED",
+    "max_m_tested": 554,
+    "best_m": 2,
+    "min_error": 73786976294838206463
+  },
+  {
+    "k": 65,
+    "status": "VERIFIED",
+    "max_m_tested": 543,
+    "best_m": 2,
+    "min_error": 36893488147419103231
+  },
+  {
+    "k": 67,
+    "status": "VERIFIED",
+    "max_m_tested": 564,
+    "best_m": 2,
+    "min_error": 147573952589676412927
+  },
+  {
+    "k": 68,
+    "status": "VERIFIED",
+    "max_m_tested": 574,
+    "best_m": 2,
+    "min_error": 295147905179352825855
+  },
+  {
+    "k": 70,
+    "status": "VERIFIED",
+    "max_m_tested": 595,
+    "best_m": 2,
+    "min_error": 1180591620717411303423
+  },
+  {
+    "k": 69,
+    "status": "VERIFIED",
+    "max_m_tested": 585,
+    "best_m": 2,
+    "min_error": 590295810358705651711
+  },
+  {
+    "k": 71,
+    "status": "VERIFIED",
+    "max_m_tested": 606,
+    "best_m": 2,
+    "min_error": 2361183241434822606847
+  },
+  {
+    "k": 72,
+    "status": "VERIFIED",
+    "max_m_tested": 616,
+    "best_m": 2,
+    "min_error": 4722366482869645213695
+  },
+  {
+    "k": 73,
+    "status": "VERIFIED",
+    "max_m_tested": 627,
+    "best_m": 2,
+    "min_error": 9444732965739290427391
+  },
+  {
+    "k": 74,
+    "status": "VERIFIED",
+    "max_m_tested": 638,
+    "best_m": 2,
+    "min_error": 18889465931478580854783
+  },
+  {
+    "k": 75,
+    "status": "VERIFIED",
+    "max_m_tested": 648,
+    "best_m": 2,
+    "min_error": 37778931862957161709567
+  },
+  {
+    "k": 76,
+    "status": "VERIFIED",
+    "max_m_tested": 659,
+    "best_m": 2,
+    "min_error": 75557863725914323419135
+  },
+  {
+    "k": 77,
+    "status": "VERIFIED",
+    "max_m_tested": 669,
+    "best_m": 2,
+    "min_error": 151115727451828646838271
+  },
+  {
+    "k": 78,
+    "status": "VERIFIED",
+    "max_m_tested": 680,
+    "best_m": 2,
+    "min_error": 302231454903657293676543
+  },
+  {
+    "k": 79,
+    "status": "VERIFIED",
+    "max_m_tested": 691,
+    "best_m": 2,
+    "min_error": 604462909807314587353087
+  },
+  {
+    "k": 80,
+    "status": "VERIFIED",
+    "max_m_tested": 702,
+    "best_m": 2,
+    "min_error": 1208925819614629174706175
+  },
+  {
+    "k": 81,
+    "status": "VERIFIED",
+    "max_m_tested": 712,
+    "best_m": 2,
+    "min_error": 2417851639229258349412351
+  },
+  {
+    "k": 82,
+    "status": "VERIFIED",
+    "max_m_tested": 723,
+    "best_m": 2,
+    "min_error": 4835703278458516698824703
+  },
+  {
+    "k": 84,
+    "status": "VERIFIED",
+    "max_m_tested": 745,
+    "best_m": 2,
+    "min_error": 19342813113834066795298815
+  },
+  {
+    "k": 83,
+    "status": "VERIFIED",
+    "max_m_tested": 734,
+    "best_m": 2,
+    "min_error": 9671406556917033397649407
+  },
+  {
+    "k": 86,
+    "status": "VERIFIED",
+    "max_m_tested": 767,
+    "best_m": 2,
+    "min_error": 77371252455336267181195263
+  },
+  {
+    "k": 85,
+    "status": "VERIFIED",
+    "max_m_tested": 756,
+    "best_m": 2,
+    "min_error": 38685626227668133590597631
+  },
+  {
+    "k": 88,
+    "status": "VERIFIED",
+    "max_m_tested": 789,
+    "best_m": 2,
+    "min_error": 309485009821345068724781055
+  },
+  {
+    "k": 87,
+    "status": "VERIFIED",
+    "max_m_tested": 778,
+    "best_m": 2,
+    "min_error": 154742504910672534362390527
+  },
+  {
+    "k": 90,
+    "status": "VERIFIED",
+    "max_m_tested": 810,
+    "best_m": 2,
+    "min_error": 1237940039285380274899124223
+  },
+  {
+    "k": 89,
+    "status": "VERIFIED",
+    "max_m_tested": 799,
+    "best_m": 2,
+    "min_error": 618970019642690137449562111
+  },
+  {
+    "k": 92,
+    "status": "VERIFIED",
+    "max_m_tested": 833,
+    "best_m": 2,
+    "min_error": 4951760157141521099596496895
+  },
+  {
+    "k": 91,
+    "status": "VERIFIED",
+    "max_m_tested": 821,
+    "best_m": 2,
+    "min_error": 2475880078570760549798248447
+  },
+  {
+    "k": 96,
+    "status": "VERIFIED",
+    "max_m_tested": 877,
+    "best_m": 2,
+    "min_error": 79228162514264337593543950335
+  },
+  {
+    "k": 93,
+    "status": "VERIFIED",
+    "max_m_tested": 844,
+    "best_m": 2,
+    "min_error": 9903520314283042199192993791
+  },
+  {
+    "k": 94,
+    "status": "VERIFIED",
+    "max_m_tested": 855,
+    "best_m": 2,
+    "min_error": 19807040628566084398385987583
+  },
+  {
+    "k": 97,
+    "status": "VERIFIED",
+    "max_m_tested": 888,
+    "best_m": 2,
+    "min_error": 158456325028528675187087900671
+  },
+  {
+    "k": 98,
+    "status": "VERIFIED",
+    "max_m_tested": 899,
+    "best_m": 2,
+    "min_error": 316912650057057350374175801343
+  },
+  {
+    "k": 95,
+    "status": "VERIFIED",
+    "max_m_tested": 866,
+    "best_m": 2,
+    "min_error": 39614081257132168796771975167
+  },
+  {
+    "k": 100,
+    "status": "VERIFIED",
+    "max_m_tested": 922,
+    "best_m": 2,
+    "min_error": 1267650600228229401496703205375
+  },
+  {
+    "k": 99,
+    "status": "VERIFIED",
+    "max_m_tested": 910,
+    "best_m": 2,
+    "min_error": 633825300114114700748351602687
+  }
+]
